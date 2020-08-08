@@ -1,2 +1,2 @@
 # TOF
-card game
+Fortune Telling Desktop Applciation Code Base
