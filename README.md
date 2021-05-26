@@ -1,2 +1,2 @@
 # TOF
-Fortune Telling Desktop Applciation Code Base
+Fortune Telling Desktop Application Code Base
